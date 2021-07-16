@@ -1,0 +1,52 @@
+{
+    "success":true,
+    "data":{
+        "topicList": [
+            {
+              "id": 1,
+              "title": "Drama",
+              "imgUrl": "https://picsum.photos/200"
+            },
+            {
+              "id": 2,
+              "title": "Humour",
+              "imgUrl": "https://picsum.photos/101"
+            },
+            {
+              "id": 3,
+              "title": "Read",
+              "imgUrl": "https://picsum.photos/111"
+            }
+          ],
+          "articleList": [
+            {
+              "id": 1,
+              "title": "Lorem ipsum dolor sit amet",
+              "desc": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi",
+              "imgUrl": "https://picsum.photos/200"
+            },
+            {
+              "id": 2,
+              "title": "2 Lorem ipsum dolor sit amet",
+              "desc": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi",
+              "imgUrl": "https://picsum.photos/101"
+            },
+            {
+              "id": 3,
+              "title": "3 Read",
+              "desc": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enimad minim veniam, quis nostrud exercitation ullamco laboris nisi",
+              "imgUrl": "https://picsum.photos/111"
+            }
+          ],
+          "recommendList": [
+            {
+              "id": 1,
+              "imgUrl": "https://picsum.photos/111/200"
+            },
+            {
+              "id": 2,
+              "imgUrl": "https://picsum.photos/110/200"
+            }
+          ]
+    }
+}
